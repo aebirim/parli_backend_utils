@@ -1,0 +1,7 @@
+
+config:
+   git: ".gitignore"
+   rspec: ".rspec.yml"
+   hound: ".hound.yml"
+   rubocop: ".rubocop.yml"
+   
