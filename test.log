@@ -1,0 +1,6 @@
+# Logfile created on 2017-02-01 13:08:16 +0000 by logger.rb/54362
+I, [2017-02-01T13:08:16.321882 #4296]  INFO -- : this is a test
+I, [2017-02-02T09:50:41.466025 #5024]  INFO -- : this is a test
+I, [2017-02-02T09:53:07.612423 #5043]  INFO -- : this is a test
+I, [2017-02-02T09:58:43.529457 #5066]  INFO -- : this is a test
+I, [2017-02-02T10:20:55.594380 #5110]  INFO -- : this is a test
